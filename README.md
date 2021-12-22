@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+link to check on gh pages: https://yeikol2703.github.io/ContadorReactJS/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
